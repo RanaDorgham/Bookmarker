@@ -1,0 +1,168 @@
+
+@keyframes type-writer {
+    0% {
+        content: " |";
+    }
+
+    2% {
+        content: " D|";
+    }
+
+    4% {
+        content: " De|";
+    }
+
+    6% {
+        content: " Dev|";
+    }
+
+    8% {
+        content: " Deve|";
+    }
+
+    10% {
+        content: " Devel|";
+    }
+
+   12% {
+        content: " Develo|";
+    }
+
+    14% {
+        content: " Develop|";
+    }
+
+   16% {
+        content: " Develope|";
+    }
+
+    18% {
+        content: " Developer|";
+    }
+
+    20% {
+        content: " Develope|";
+    }
+
+   22% {
+        content: " Develop|";
+    }
+
+    24% {
+        content: " Develo|";
+    }
+
+   26% {
+        content: " Devel|";
+    }
+
+    28% {
+        content: " Deve|";
+    }
+
+    30% {
+        content: " Dev|";
+    }
+
+    32% {
+        content: " De|";
+    }
+
+    34% {
+        content: " D|";
+    }
+
+   36% {
+        content: " De|";
+    }
+
+   38% {
+        content: " Des|";
+    }
+    
+   40% {
+        content: " Desi|";
+    }
+
+    42% {
+        content: " Desig|";
+    }
+
+    44% {
+        content: " Design|";
+    }
+
+    46% {
+        content: " Designe|";
+    }
+
+    48% {
+        content: " Designer|";
+    }
+
+    50% {
+        content: " Designer|";
+    }
+
+    52% {
+        content: " Designe|";
+    }
+
+    54% {
+        content: " Design|";
+    }
+
+    56% {
+        content: " Desig|";
+    }
+
+    58% {
+        content: " Desi|";
+    }
+
+    60% {
+        content: " Des|";
+    }
+
+    62% {
+        content: " l|";
+    }
+
+    64% {
+        content: " la|";
+    }
+
+    68% {
+        content: "lar|";
+    }
+
+   72% {
+        content: " larr|";
+    }
+
+    76% {
+        content: " larry|";
+    }
+
+    80% {
+        content: " larry D|";
+    }
+
+    84% {
+        content: " larry Da|";
+    }
+
+    88% {
+        content: " larry Dan|";
+    }
+    92% {
+        content: " larry Dani|";
+    }
+    96% {
+        content: " larry Danie|";
+    }
+    100% {
+        content: " larry Daniels|";
+    }
+
+}
